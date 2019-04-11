@@ -1,7 +1,4 @@
 # BigNumberFactorial
-A program which can calculate the factorials of very large integers.
-Potential for updates could be to use linked lists for the digit array and create a GUI for user convenience.
-
 PURPOSE:
 Program can successfully calculate the factorial of a number up to 50 000. Larger numbers have been attempted.
 BE WARNED! This can take quite some time

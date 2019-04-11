@@ -16,4 +16,4 @@ The process then repeats for the above index.
 
 LIMITATIONS:
 It can become very slow for large numbers
-The array must be initialised to be very large. WOuld be better to implement a linked list.
+The array must be initialised to be very large. It would be better to implement a linked list.
